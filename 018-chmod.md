@@ -116,4 +116,4 @@ $ ./file
 hello
 ~~~
 
-<https://pubs.opengroup.org/onlinepubs/9699919799/>
+<https://pubs.opengroup.org/onlinepubs/9699919799/utilities/chmod.html>
